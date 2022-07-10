@@ -2,7 +2,7 @@
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
-<img src="https://telegra.ph/file/2061f62b135e0b91880b5.jpg">
+<img src="https://telegra.ph/file/eec7b161e8467269db046.png">
 
 
 ### Setup Repo ini join 3 ch dan 2 gc
@@ -14,7 +14,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 ##
 ### Installation
 #### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/numberone0101/File-Sharing-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonDevils/File-Sharing-Devil"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
@@ -24,7 +24,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Yansaii/File-Sharing-Bot
+git clone https://github.com/AnonDevils/File-Sharing-Devil
 cd File-Sharing
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -85,14 +85,19 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/Papi_Sanzu) Untuk Dukungan/Bantuan Dan Join [Channel](https://t.me/+XGNBv8g_1OEyMDJl) Didukung Towaga.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
 ### Credits
 
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
-- Our Support Group Members
+OTHER : SANZU HARUCHIO
+
+THX SUPPORT : ASKA, CILA, CHIBEG, KYRAA, ALL MEMEBER 
+
+THX TO : TOWOGA - Silent Zone
+
+BY : ANON DEVILMY ERROR SYSTEM 505
+
 
    **Kalo deploy kasih bintang dulu ngentod**
