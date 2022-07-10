@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recife By Zaen @Mafia_Tobatz
+# Recife By Zaen @Papi_Sanzu
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
@@ -24,7 +24,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "@Mafia_Tobatz")
+OWNER = os.environ.get("OWNER", "@Papi_Sanzu")
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
@@ -50,7 +50,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\n<b>Saya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.</b>",
+    "<b>𝙃𝙖𝙡𝙡𝙤 𝙎𝙖𝙮𝙖𝙣𝙜👋❤ {first}</b>\n\n<b>𝙎𝙖𝙮𝙖 𝙙𝙖𝙥𝙖𝙩 𝙢𝙚𝙣𝙮𝙞𝙢𝙥𝙖𝙣 𝙛𝙞𝙡𝙚 𝙥𝙧𝙞𝙗𝙖𝙙𝙞 𝙙𝙞 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙏𝙚𝙧𝙩𝙚𝙣𝙩𝙪 𝙙𝙖𝙣 𝙥𝙚𝙣𝙜𝙜𝙪𝙣𝙖 𝙡𝙖𝙞𝙣 𝙙𝙖𝙥𝙖𝙩 𝙢𝙚𝙣𝙜𝙖𝙠𝙨𝙚𝙨𝙣𝙮𝙖 𝙙𝙖𝙧𝙞 𝙡𝙞𝙣𝙠 𝙠𝙝𝙪𝙨𝙪𝙨.</b>",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -60,7 +60,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nAnda harus bergabung di Channel/Grup saya Terlebih dahulu untuk Melihat File yang saya Bagikan\n\nSilakan Join Ke Channel & Group Terlebih Dahulu</b>",
+    "<b>𝙃𝙖𝙡𝙡𝙤 𝙎𝙖𝙮𝙖𝙣𝙜👋😚 {first}\n\n𝙆𝙡𝙞𝙠 𝙅𝙤𝙞𝙣 𝙏𝙚𝙧𝙡𝙚𝙗𝙞𝙝 𝘿𝙖𝙝𝙪𝙡𝙪, 𝙎𝙪𝙥𝙖𝙮𝙖 𝙆𝙖𝙢𝙪 𝙈𝙚𝙣𝙙𝙖𝙥𝙖𝙩𝙠𝙖𝙣 𝙑𝙞𝙙𝙚𝙤 𝘼𝙩𝙖𝙪 𝙁𝙞𝙡𝙚𝙣𝙮𝙖\n\n❤𝙅𝙊𝙄𝙉 𝘿𝙐𝙇𝙐 𝙔𝘼 𝙎𝘼𝙔𝘼𝙉𝙂𝙆𝙐❤</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
